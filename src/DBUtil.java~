@@ -8,7 +8,7 @@ public class DBUtil {
 	static final String oraPwd = "hr";
 	
 	private static String mySqlUser = "root";
-	private static String mySqlPwd = "111";
+	private static String mySqlPwd = "199421ab";
 	private static String mySqlUrl = "jdbc:mysql://localhost:3306/world";
 	//potluck (id INT NOT NULL PRIMARY KEY AUTO_INCREMENT,  name VARCHAR(20), food VARCHAR(30), confirmed CHAR(1),  signup_date DATE);
 	
